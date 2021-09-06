@@ -2,4 +2,5 @@
 *Application built with NodeJS ( NestJS and TypeScript)\
 *git clone -> npm install -> npm run start\
 *Server starts at port 3000 \
-*Postman used to test
+*Postman used to test \
+*Implemented GET,PUT,DELETE,POST for /users route
